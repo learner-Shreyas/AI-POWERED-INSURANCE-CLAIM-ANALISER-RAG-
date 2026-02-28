@@ -108,11 +108,3 @@ This enables automatic waiting-period evaluation.
 
 ---
 
-## 📊 Example Output (JSON)
-
-```json
-{
-  "Status": "Approved",
-  "RiskScore": "Low",
-  "Decision": "Covered",
-  "Reason": "Accidental injuries are covered without waiting period."
